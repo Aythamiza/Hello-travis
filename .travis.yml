@@ -1,6 +1,1 @@
-languague:
-nodejs
-
-
-script:
-  - echo "hello"
+language: node_js
