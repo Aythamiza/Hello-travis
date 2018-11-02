@@ -1,6 +1,6 @@
 languague:
-php
+nodejs
 
 
 script:
-echo "hello"
+  - echo "hello"
