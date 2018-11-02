@@ -1,4 +1,4 @@
 languague:
-nodejs
+node_js
 script:
   - echo "hello"
